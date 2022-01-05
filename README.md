@@ -14,8 +14,8 @@ Seja bem-vindo(a)
 
 <div>
   <a href="https://www.linkedin.com/in/karoline-gomes-de-oliveira-158b11161">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarolGOli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolGOli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KarolGOli&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolGOli&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
   
