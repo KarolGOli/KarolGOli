@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Karoline. 
 Seja bem-vindo(a)
 
-- 💼 Atualmente trabalho com back-end
-- 🔥 Empresa atual F1RST Tecnologia
-- 📚 Estudo Ciência de Dados e Java
+- 💼 Atualmente trabalho com back-end, computação em nuvem e front-end.
+- 🔥 Empresa atual Itaú Unibanco
+- 📚 Estudo Análise e Desenvolvimento de Sistemas e Python
 - 😄 Pronomes: ela/dela
 
 <div>
