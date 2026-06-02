@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Karoline. 
 Seja bem-vindo(a)
 
-🚀 Desenvolvedora Pleno Backend/Full Stack | Java, Spring Boot, Python, FastAPI, Angular e AWS
+Desenvolvedora Pleno Backend/Full Stack | Java, Spring Boot, Python, FastAPI, Angular e AWS
 
 
 
@@ -25,9 +25,7 @@ Principais tecnologias:
 
  Java, Spring Boot, Python, FastAPI, JavaScript, TypeScript, Angular, APIs REST, Microsserviços, AWS, PostgreSQL, MySQL, Oracle, DynamoDB, Azure DevOps, CI/CD, ServiceNow, Git, Scrum, testes automatizados e integrados.
 
-
-
-📩 Estou aberta a novas oportunidades e desafios!
+Estou aberta a novas oportunidades e desafios!
 
 <div>
   <a href="https://www.linkedin.com/in/karoline-gomes-de-oliveira-158b11161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
